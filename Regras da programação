@@ -1,3 +1,5 @@
 Não iniciar uma variável com números;
 Não deve haver espaçamentos;
 Tudo minúsculo;
+Para atribuirmos algum valor a uma variável, utilizamos o sinal de = (igual);
+Para usarmos números decimais, separamos com um . (ponto)
